@@ -92,7 +92,7 @@ We may update this Privacy Policy from time to time. Users will be notified of s
 
 8. CONTACT INFORMATION
 
-If you have any questions regarding this Privacy Policy, please contact us at [Insert Contact Email].
+If you have any questions regarding this Privacy Policy, please contact us at the1percent@walla.co.il.
 
 
 ########################################################
@@ -171,7 +171,7 @@ AI-generated responses are for informational purposes only. Users should not rel
 
 12. DISPUTE RESOLUTION
 
-Any disputes will first be resolved through good-faith negotiations. If unresolved, disputes will be subject to binding arbitration in [Insert Jurisdiction].
+Any disputes will first be resolved through good-faith negotiations. If unresolved, disputes will be subject to binding arbitration in Israel.
 
 13. FORCE MAJEURE
 
@@ -191,5 +191,5 @@ These Terms are governed by the laws of Israel Jurisdiction. Disputes will be re
 
 16. CONTACT INFORMATION
 
-If you have any questions, please contact us at [Insert Contact Email].
+If you have any questions, please contact us at the1percent@walla.co.il.
 
